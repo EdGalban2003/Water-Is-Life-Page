@@ -1,0 +1,141 @@
+/* Estilos CSS para el cuerpo y el fondo */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    display: grid;
+}
+
+
+
+/* Estilos para el primer contenedor */
+.contenedor {
+    position: relative;
+    height: 100vh; 
+}
+
+.imagen-contenedor {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img1 {
+    object-fit: cover; 
+    width: 100%;
+    height: 120vh; 
+}
+
+.texto-boton-contenedor {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: rgb(255, 255, 255); 
+    font-family: 'Kanit', sans-serif;
+}
+
+.titulo,
+.titulo2 {
+    margin: 0;
+}
+
+.boton {
+    margin-top: 20px;
+    font-size: 0.7em;
+    padding: 20px 30px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer; 
+    margin-top: 5%;
+}
+
+
+.titulo{
+    color: rgb(255, 255, 255);
+
+}
+
+.titulo2 {
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Estilos para el primer contenedor */
+.contenedor2 {
+    position: relative;
+    height: 100vh; 
+    background-color: white;
+}
+
+
+
+
+
+/* Estilos para el primer contenedor */
+.contenedor3 {
+    position: relative;
+    height: 110vh; 
+    background-color: rgb(0, 0, 0);
+}
+
+
+
+/* Estilos para el primer contenedor */
+.contenedor4 {
+    position: relative;
+    height: 100vh; 
+}
+
+.imagen-contenedor {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img1 {
+    object-fit: cover; 
+    width: 100%;
+    height: 120vh; 
+}
+
+
+
+/* Estilos para el primer contenedor */
+.contenedor5 {
+    position: relative;
+    height: 100vh; 
+    background-color: white;
+}
+
+
+
+/* Estilos para el primer contenedor */
+.contenedor6 {
+    position: relative;
+    height: 100vh; 
+    background-color: #57A2D8;
+}
