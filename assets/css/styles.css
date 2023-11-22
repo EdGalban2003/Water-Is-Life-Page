@@ -118,6 +118,49 @@ body {
 
 
 
+/* Estilos para el tercer contenedor */
+.contenedor3 {
+    position: relative;
+    height: 110vh; 
+    background-color: rgb(0, 0, 0);
+}
+
+.TT2{
+    font-size: 6em;
+    margin-top: 5%;
+    text-align: center;
+    color: #57A2D8;
+    font-family: 'Noto Serif Balinese', serif;
+}
+
+
+.contenedor-imagenes {
+    display: flex;
+    justify-content: space-between; 
+}
+
+.imagen-con-texto {
+    text-align: center; 
+}
+
+.img2{
+    height: 65%;
+    width: 80%;
+}
+
+.TT3{
+    color: white;
+    font-size: 3em;
+    font-family: 'Noto Serif Balinese', serif;
+}
+
+.P1{
+    color: white;
+    margin: 5%;
+    justify-content: center;
+    font-size: 1.8;
+    font-family: 'Noto Serif Balinese', serif;
+}
 
 
 
