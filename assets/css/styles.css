@@ -50,20 +50,29 @@ body {
     margin-top: 20px;
     font-size: 0.7em;
     padding: 20px 30px;
-    background-color: rgb(255, 255, 255);
-    border: none;
+    background-color: rgba(255, 255, 255,0);
     cursor: pointer; 
-    margin-top: 5%;
+    border-color: white;
+    margin-top: 10%;
+    color: white;
+    font-family: 'Noto Serif Balinese', serif;
+    font-size: 2em;
 }
 
 
 .titulo{
     color: rgb(255, 255, 255);
+    font-family: 'Anton', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-size: 9em;
 
 }
 
 .titulo2 {
     color: rgb(255, 255, 255);
+    font-family: 'Noto Serif Balinese', serif;
+    font-size: 3em;
+    margin-top: 5%;
 }
 
 
