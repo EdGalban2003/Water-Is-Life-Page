@@ -152,6 +152,7 @@ body {
 .TT3{
     color: white;
     font-size: 3em;
+    font-family: 'Noto Serif Balinese', serif;
 }
 
 .P1{
@@ -159,6 +160,7 @@ body {
     margin: 5%;
     justify-content: center;
     font-size: 1.8;
+    font-family: 'Noto Serif Balinese', serif;
 }
 
 
