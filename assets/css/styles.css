@@ -112,7 +112,6 @@ body {
     color: #000000;
     font-family: 'Noto Serif Balinese', serif;
 
-
 }
 
 
@@ -132,6 +131,34 @@ body {
     text-align: center;
     color: #57A2D8;
     font-family: 'Noto Serif Balinese', serif;
+}
+
+
+.contenedor-imagenes {
+    display: flex;
+    justify-content: space-between; 
+}
+
+.imagen-con-texto {
+    text-align: center; 
+    margin: 10px;
+}
+
+.img2{
+    height: 65%;
+    width: 80%;
+}
+
+.TT3{
+    color: white;
+    font-size: 3em;
+}
+
+.P1{
+    color: white;
+    margin: 5%;
+    justify-content: center;
+    font-size: 1.8;
 }
 
 
