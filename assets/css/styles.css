@@ -163,9 +163,6 @@ body {
 
 
 
-
-
-
 /* Estilos para el cuarto contenedor */
 .contenedor4 {
     position: relative;
@@ -173,21 +170,21 @@ body {
 }
 
 .imagen-contenedor {
-    position: absolute;
-    top: 0;
-    left: 0;
+    position: relative;
     width: 100%;
-    height: 100%;
+    height: 120vh; 
     display: flex;
+    flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
 }
 
 .img1 {
     object-fit: cover; 
     width: 100%;
-    height: 120vh; 
+    height: 100%;
 }
+
 
 
 
@@ -195,14 +192,7 @@ body {
 .contenedor5 {
     position: relative;
     height: 100vh; 
-    background-color: white;
-}
-
-
-
-/* Estilos para el sexto contenedor */
-.contenedor6 {
-    position: relative;
-    height: 100vh; 
     background-color: #57A2D8;
 }
+
+
